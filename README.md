@@ -20,7 +20,7 @@ This repository contains the code for running experiments presented in [How Do V
   - [Behavioral Evaluation](#behavioral-evaluation)
   - [Precomputing Consistent and Inconsistent Multimodal Representations](#precomputing-consistent-and-inconsistent-multimodal-representations)
   - [Probe and Cluster Fitting on Representations](#probe-and-cluster-fitting-on-representations)
-  - [Attention Head Attribution and Intervention](#attention-and-cluster-fitting-on-representations)
+  - [Attention Head Attribution and Intervention](#attention-head-attribution-and-intervention)
   - [How to Cite](#how-to-cite)
 
   
