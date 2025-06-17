@@ -12,7 +12,7 @@ This repository contains the code for running experiments presented in [How Do V
 
   
 
-- [Conflicting Multimodal Information Processing](#conflicting-multimodal-information processing)
+- [Conflicting Multimodal Information Processing](#conflicting-multimodal-information-processing)
   - [Abstract](#abstract)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
