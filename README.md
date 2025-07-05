@@ -161,5 +161,10 @@ Here, `alpha` deines the scalar that got multiplied to each attention heads' out
 ## How to Cite
 
 ```
-PENDING
+@article{hua2025vision,
+  title={How Do Vision-Language Models Process Conflicting Information Across Modalities?},
+  author={Hua, Tianze and Yun, Tian and Pavlick, Ellie},
+  journal={arXiv preprint arXiv:2507.01790},
+  year={2025}
+}
 ```
