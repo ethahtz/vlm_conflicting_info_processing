@@ -1,6 +1,6 @@
 # Conflicting Multimodal Information Processing
 
-This repository contains the code for running experiments presented in [How Do Vision-Language Models Process Conflicting Information Across Modalities?]()
+This repository contains the code for running experiments presented in [How Do Vision-Language Models Process Conflicting Information Across Modalities?](https://arxiv.org/abs/2507.01790)
 
 ## Abstract
 
